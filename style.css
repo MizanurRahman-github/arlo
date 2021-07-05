@@ -62,4 +62,16 @@ body{
     
    
 }
+footer{
+    height: 60px;
+    background-color:rgb(83, 77, 77);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+footer h1{
+    font-size: 14px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
    
