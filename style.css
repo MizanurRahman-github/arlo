@@ -43,6 +43,9 @@ body{
     
 
 }
+.minitext h3{
+    cursor: pointer;
+}
 .thirdsection{
     background-color:hotpink;
     justify-content: space-between;
@@ -54,6 +57,7 @@ body{
     margin: 30px 50px;
     border-radius: 10px;
     box-shadow: 5px 5px 30px black;
+    cursor: pointer;
     
     
    
